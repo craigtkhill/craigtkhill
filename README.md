@@ -48,6 +48,9 @@ Git
 ### 👨🏻‍💻 Other Languages
 Java
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=craigtkhill)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile views](https://gpvc.arturio.dev/craigtkhill)  
+
 [![Craig's GitHub stats](https://github-readme-stats.vercel.app/api?username=craigtkhill)](https://github.com/craigtkhill/github-readme-stats)
 
-Skills: VUE JS / REACT / JS / HTML / CSS
