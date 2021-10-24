@@ -48,8 +48,5 @@ Git
 ### 👨🏻‍💻 Other Languages
 Java
 
+[![Craig's GitHub stats](https://github-readme-stats.vercel.app/api?username=craigtkhill)](https://github.com/craigtkhill/github-readme-stats)
 
-
-
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/></a>
