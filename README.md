@@ -14,7 +14,8 @@
 Tailwind
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 JQuery
-Vue.js
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Vue-4fc08d?style=flat&logo=Vue.js&logoColor=fff"/></a>
+  
 
 ### 🤖 Web Development - Back-end
 Node.js
@@ -47,16 +48,6 @@ Git
 
 ### 👨🏻‍💻 Other Languages
 Java
-
-
-Skills: VUE JS
-
-
-
-
-
-
-
 
 [![Craig's GitHub stats](https://github-readme-stats.vercel.app/api?username=craigtkhill)](https://github.com/craigtkhill/github-readme-stats)
 
