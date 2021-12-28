@@ -1,6 +1,6 @@
 #  👋 Hi there! I'm Craig
 
-- 👀 I’m interested in data science, psychology and web-development
+- 👀 and I’m interested in data science, psychology and web-development
 
 ***
 
