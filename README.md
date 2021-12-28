@@ -1,8 +1,6 @@
 #  👋 Hi there! I'm Craig
 
 - 👀 I’m interested in web development, data science and psychology
-- 📫 How to reach me craigthomashill@gmail.com
-- 👉 You can visit my personal site [coming soon](https://www.google.com)
 
 ***
 
