@@ -3,7 +3,7 @@
 and I’m interested in data science, psychology and web-development
 
 ***
-## Below are some of the tools I use (in order of familiarity)
+## Below are some of the tools I use
 
 ### 🧑🏻‍💻 Programming Languages
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
