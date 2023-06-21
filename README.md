@@ -6,9 +6,7 @@ and I’m interested in behavioral data science and web development
 
 ### 🧑🏻‍💻 Programming Languages
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
-![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
-![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=)
 
 ### 📈 Data Analysis, Visualization, Machine Learning & NLP
 ![Jupyter](https://img.shields.io/static/v1?style=for-the-badge&message=Jupyter&color=F37626&logo=Jupyter&logoColor=FFFFFF&label=)
@@ -17,7 +15,6 @@ and I’m interested in behavioral data science and web development
 ![Plotly](https://img.shields.io/static/v1?style=for-the-badge&message=Plotly&color=3F4F75&logo=Plotly&logoColor=FFFFFF&label=)
 ![scikit-learn](https://img.shields.io/static/v1?style=for-the-badge&message=scikit-learn&color=222222&logo=scikit-learn&logoColor=F7931E&label=)
 ![PyTorch](https://img.shields.io/static/v1?style=for-the-badge&message=PyTorch&color=EE4C2C&logo=PyTorch&logoColor=FFFFFF&label=)
-![TensorFlow](https://img.shields.io/static/v1?style=for-the-badge&message=TensorFlow&color=FF6F00&logo=TensorFlow&logoColor=FFFFFF&label=)
 ![spaCy](https://img.shields.io/static/v1?style=for-the-badge&message=spaCy&color=09A3D5&logo=spaCy&logoColor=FFFFFF&label=)
 ![OpenAI](https://img.shields.io/static/v1?style=for-the-badge&message=OpenAI&color=412991&logo=OpenAI&logoColor=FFFFFF&label=)
 
