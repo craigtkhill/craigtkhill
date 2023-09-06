@@ -1,7 +1,5 @@
 #  👋 Hi there! I'm Craig 
 
-and I’m interested in behavioral data science and web development
-
 ***
 
 ### 🧑🏻‍💻 Programming Languages
