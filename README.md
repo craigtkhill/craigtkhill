@@ -3,12 +3,12 @@ Recent graduate from University College Cork with a degree in Psychology and Com
 # Projects
 I'm currently working on a project I call my self-directed masters, which I'm planning to share more details on soon on my [blog](https://www.craighill.dev/).
 # Experience
-Sep 2023 - Apr 2024 | Intermediate Python Teaching Assistant at University College Cork
+**Sep 2023 - Apr 2024 | Intermediate Python Teaching Assistant at University College Cork**
 - Assisted second-year students with understanding and implementing programming concepts during lab sessions.
 - Helped students debug their code and understand their mistakes.
 - Offered mentorship and guidance to students on their academic and career aspirations.
  
-May 2022 - Aug 2023 | Data Scientist and Software Engineer at Voxxify
+**May 2022 - Aug 2023 | Data Scientist and Software Engineer at Voxxify**
 - Trained and fine-tuned custom sentiment analysis, Named Entity Recognition (NER), and classification models to process, summarise, and visualise user-submitted comments, extracting valuable insights for decision makers at Fortune 500 and FSTE 100 companies.
 - Set up data labelling infrastructure for the annotation team to label 10,000s of anonymised data points for model training.
 - Applied advanced unsupervised clustering techniques for data categorisation, user segmentation, and community detection using graph analysis.
@@ -18,7 +18,7 @@ May 2022 - Aug 2023 | Data Scientist and Software Engineer at Voxxify
 - Mentored new interns and documented key processes and workflows including creating tutorials on Docker, Git, and other essential tools, ensuring knowledge transfer and continuity for the team before departing.
 - Successfully referred a highly skilled engineer to the company after leaving enhancing the team's technical capabilities.
 # Education
-Sep 2020 - May 2024 | Psychology and Computing at University College Cork
+**Sep 2020 - May 2024 | Psychology and Computing at University College Cork**
 ## Modules
 
 |   |   |
