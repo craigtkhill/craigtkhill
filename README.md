@@ -17,6 +17,11 @@ I'm currently working on a project I call my self-directed masters, which I'm pl
 - Presented the company to prospective placement students, generating interest and excitement resulting in Voxxify receiving the highest number of applications from the targeted course of any company.
 - Mentored new interns and documented key processes and workflows including creating tutorials on Docker, Git, and other essential tools, ensuring knowledge transfer and continuity for the team before departing.
 - Successfully referred a highly skilled engineer to the company after leaving enhancing the team's technical capabilities.
+
+**October 2021 - August 2023 | Class Representative with UCC Students Union**
+- Provided help to students struggling with programming and stats assignments.
+- Organised democratic processes for voting on contentious issues within the class.
+- Liaised with module and course coordinators. Providing feedback to improve the course and resolving issues.
 # Education
 **Sep 2020 - May 2024 | Psychology and Computing at University College Cork**
 ## Modules
