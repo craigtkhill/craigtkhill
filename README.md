@@ -1,47 +1,33 @@
 # Personal Profile
-Recent Computer Science and Psychology graduate from University College Cork, with notable experience as a class representative for the first three years of the degree and intermediate Python Teaching Assistant in the final year. Over one year of professional experience as a Data Scientist and Software Engineer intern, specializing in producing and deploying machine learning (ML) and artificial intelligence (AI) systems, including coding user interfaces. Two-time recipient of the prestigious Quercus College Scholarship for outstanding academic performance.
+Recent graduate from University College Cork with a degree in Psychology and Computing. Served as a class representative for three years and as a Teaching Assistant for the Intermediate Programming and Problem Solving in Python module in final year. Over a year of experience as a Data Scientist and Software Engineer intern, specialising in developing and deploying machine learning (ML) and artificial intelligence (AI) systems, including designing user interfaces. Awarded the prestigious Quercus College Scholarship twice for outstanding academic performance.
 # Projects
 I'm currently working on a project I call my self-directed masters, which I'm planning to share more details on soon on my blog at [craighill.dev](here)
 # Experience
 Sep 2023 - Apr 2024 | Intermediate Python Teaching Assistant at University College Cork
-   - Assist second-year students with understanding and implementing programming concepts during lab sessions.
-   - Help students debug their code and understand their mistakes.
+- Assisted second-year students with understanding and implementing programming concepts during lab sessions.
+- Helped students debug their code and understand their mistakes.
+- Offered mentorship and guidance to students on their academic and career aspirations.
  
-May 2022 - Aug 2023 | Data Scientist at Voxxify
-- Developed and fine-tuned algorithms to process, summarize, and visualize user-submitted comments, extracting valuable insights at scale.
+May 2022 - Aug 2023 | Data Scientist and Software Engineer at Voxxify
+- Trained and fine-tuned custom sentiment analysis, Named Entity Recognition (NER), and classification models to process, summarise, and visualise user-submitted comments, extracting valuable insights for decision makers at Fortune 500 and FSTE 100 companies.
 - Set up data labelling infrastructure for the annotation team to label 10,000s of anonymised data points for model training.
-- Utilized cloud services to train custom sentiment analysis, Named Entity Recognition (NER), and classification models.
-- Applied advanced unsupervised clustering techniques for data categorization, user segmentation, and community detection using graph analysis.
-- Setup NoSQL database and integrated with machine learning outputs for data storage and retrieval.
-- Developed an AI-driven chatbot feature to efficiently search and retrieve information from large document collections.
-- Designed and executed end-to-end AI/ML pipelines from data ingestion and preprocessing to model deployment, using serverless technologies to ensure scalability and cost-efficiency.
-- Collaborated with a cross-functional team, participating in the iterative design, testing, and refinement of platform features.
-- Developed frontend features using React including visualizing AI analysis outcomes.
-- Refactored and optimized frontend code for improved system performance and reliability.
+- Applied advanced unsupervised clustering techniques for data categorisation, user segmentation, and community detection using graph analysis.
+- Designed and executed end-to-end AI/ML pipelines from data ingestion and preprocessing to model deployment, using serverless technologies and NoSQL databases to ensure scalability and cost-efficiency.
+- Developed frontend features using React including visualising AI analysis outcomes.
 - Presented the company to prospective placement students, generating interest and excitement resulting in Voxxify receiving the highest number of applications from the targeted course of any company.
-- Mentored new interns and documented key processes and workflows, ensuring knowledge transfer and continuity for the team before departing.
-- Developed and shared tutorials on Docker, Git, and other essential tools, supporting team skill development.
+- Mentored new interns and documented key processes and workflows including creating tutorials on Docker, Git, and other essential tools, ensuring knowledge transfer and continuity for the team before departing.
 - Successfully referred a highly skilled engineer to the company after leaving enhancing the team's technical capabilities.
 # Education
 Sep 2020 - May 2024 | Psychology and Computing at University College Cork
 ## Modules
-- Data Mining
-- Relational Databases
-- Intermediate Programming & Problem Solving
-- Systems Organisation in Assembly
-- Web Development
-- Software Engineering
-- Authoring in Java
-- Mobile Multimedia with Swift and iOS
-- Research Design & Statistical Analysis
-- Experimental Design & Statistical Applications
-- Research Methods in Psychology
-- User Experience Design
-- Design for Human-Centred Computing
-## Activities and societies
-- Hike Leader with UCC Mountaineering Club. 
-- Project Lead at Enactus.
-- Class representative for years, 1, 2 and 3.
+
+|   |   |
+|---|---|
+|Data Mining<br><br>Relational Databases<br><br>Intermediate Programming & Problem Solving<br><br>Systems Organisation in Assembly<br><br>Web Development<br><br>Authoring in Java<br><br>Mobile Multimedia with Swift and iOS<br><br>Software Engineering|Research Design & Statistical Analyses<br><br>Experimental Design & Statistical Applications<br><br>Research Methods in Psychology <br><br>User Experience Design<br><br>Design for Human-Centred Computing<br><br>Learning and Behavior<br><br>Neuroscience, Perception and Attention<br><br>Health Psychology: Models and Applications|
+
+## Activities and Societies
+- Hike Leader with UCC Mountaineering Club. 
+- Project Lead at Enactus leading a project called Befriend, an initiative aimed at fostering social connection and reducing loneliness, by organising specific activities suited to introverted students. 
+- Class representative for first, second and third year.
 ## Awards
-- Two-time Quercus College Scholar for years 2021 & 2022
-- Scholarship awarded for academic excellence to the highest-scoring psychology and computing student on the course
+- Two-time Quercus College Scholar for academic years 2020-2021 and 2021-2022 awarded for academic excellence to the highest-scoring Psychology and Computing student.
