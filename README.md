@@ -1,7 +1,8 @@
+[blog](https://www.craighill.dev/)
+
 # Personal Profile
 Recent graduate from University College Cork with a degree in Psychology and Computing. Served as a class representative for three years and as a Teaching Assistant for the Intermediate Programming and Problem Solving in Python module in final year. Over a year of experience as a Data Scientist and Software Engineer intern, specialising in developing and deploying machine learning (ML) and artificial intelligence (AI) systems, including designing user interfaces. Awarded the prestigious Quercus College Scholarship twice for outstanding academic performance.
-# Projects
-I'm currently working on some projects, which I'm planning to share more details on soon on my [blog](https://www.craighill.dev/).
+
 # Experience
 **Sep 2023 - Apr 2024 | Intermediate Python Teaching Assistant at University College Cork**
 - Assisted second-year students with understanding and implementing programming concepts during lab sessions.
